@@ -32,7 +32,7 @@ More specifically, this release supports the following Unicode
 ranges: Latin-1
 
 To contribute to the project contact Alexei Vanyashin at 
-a@cyreal.org
+a at cyreal.org
 
 There are 5 Source files:
 
@@ -44,12 +44,14 @@ There are 5 Source files:
 
 4. Federant-Regular-TTF.vfb (Merged and optimized file for TTF export, used to create v1.110 and earlier)
 
-5. Federant-Regular.glyphs (Merged and optimized file for TTF export, used to create v1.111)
+5. Federant-Regular.glyphs (Merged and optimized file for TTF export, used to create v1.111 and up)
 
 ChangeLog
 
+22 January 2016 (Alexei Vanyashin) Federant version 1.012
+- Updated kerning with attention to punctuation, generated TTF through Glyphs
 
-20 Jnauary 2016 (Dave Crossland) Federant version 1.011
+20 January 2016 (Dave Crossland) Federant version 1.011
 - Regenerated TTF through Glyphs to fix GPOS issue, reduce filesize, autohint
 
 9 October 2011  (Olexa M. Volochay, Alexei Vanyashin) Federant version 1.010 
